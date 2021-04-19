@@ -1,0 +1,1 @@
+<!-- file nhận dữ liệu từ file js/note.js để thực thi thêm/sửa/xoá ghi chú -->

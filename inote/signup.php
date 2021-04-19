@@ -1,0 +1,1 @@
+<!-- file nhận dữ liệu từ file js/signup.js để đăng ký tài khoản -->

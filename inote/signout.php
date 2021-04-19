@@ -1,0 +1,1 @@
+<!-- file giải phóng session, nó dùng để đăng xuất -->

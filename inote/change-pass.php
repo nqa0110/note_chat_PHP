@@ -1,0 +1,1 @@
+<!-- file nhận dữ liệu từ file js/change-pass.js để xử lý đổi mật khẩu -->

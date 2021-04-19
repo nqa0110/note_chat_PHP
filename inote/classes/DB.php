@@ -1,0 +1,1 @@
+<!-- xử lý database như kết nối, truy vấn, lấy dữ liệu -->
